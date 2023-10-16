@@ -15,9 +15,6 @@ $this->setFrameMode(true);
 
 if (empty($arResult["ALL_ITEMS"]))
 	return;
-//echo '<pre>';
-//print_r($arResult["ALL_ITEMS"]);
-//echo '</pre>';
 ?>
 
 <ul>
